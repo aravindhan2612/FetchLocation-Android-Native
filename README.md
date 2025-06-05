@@ -29,3 +29,7 @@ A sample Android app to demonstrate how to fetch device location in the backgrou
 1. Clone the repository:
    ```bash
    git clone https://github.com/aravindhan2612/FetchLocation-Android-Native.git
+   ```
+
+# License
+This project is open-source and available under the MIT License.
