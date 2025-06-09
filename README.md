@@ -14,8 +14,8 @@ A sample Android app to demonstrate how to fetch device location in the backgrou
 
 - **Language**: Kotlin
 - **Libraries**:
-  - `com.google.android.gms:play-services-location:21.1.0`
-  - `androidx.work:work-runtime-ktx:<work_version>`
+  - `com.google.android.gms:play-services-location:<latestversion>`
+  - `androidx.work:work-runtime-ktx:<latestversion>`
 
 ## 🧩 Key Components
 
